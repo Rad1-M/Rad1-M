@@ -1,19 +1,19 @@
-## Hi there 👋 I'm Readwan 
+## Hi there 👋 I'm Readwan
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile.
 
-This page is small for now, but it will grow step by step.  
-I'm learning C++ and using Visual Studio to build small projects.  
-Here, I share my progress and practice.
+I'm a beginner developer currently learning C++ and C#.
+I build small projects to improve my skills and understand programming concepts.
 
-*Stay tuned for more updates!*
+This profile shows my progress over time.
 
+---
 
 ## 🧠 Languages
 
 <p align="center">
-  <!-- أيقونة C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="50" />
 </p>
 
 ---
@@ -21,8 +21,6 @@ Here, I share my progress and practice.
 ## 🛠️ Tools
 
 <p align="center">
-  <!-- أيقونة Visual Studio -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" height="50" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="50" />
 </p>
